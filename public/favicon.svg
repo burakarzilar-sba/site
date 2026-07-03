@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#1a1a2e"/>
+  <path d="M128 40 L100 110 L130 110 L105 180 L160 120 L130 120 L155 40 Z" fill="#e67e22" stroke="#e67e22" stroke-width="2" stroke-linejoin="round"/>
+  <text x="128" y="235" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#e67e22" text-anchor="middle">SBA</text>
+</svg>
